@@ -43,7 +43,7 @@
 - [Uso](#uso)
     - [JSON](#json)
     - [Usuários](#usuários)
-    - [Iniciando/Configurando banco de dados](#iniciando-e-configurando-banco-de-dados)
+    - [Iniciando e Configurando banco de dados](#iniciando-e-configurando-banco-de-dados)
 - [Roteiro](#roteiro)
 - [Contribuindo](#contribuindo)
 - [Licença](#licença)
