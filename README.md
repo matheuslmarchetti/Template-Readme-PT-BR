@@ -1,9 +1,6 @@
-# Título e/ou Arte do Projeto <a name="readme-top"></a>
+# Título e/ou Arte do Projeto
 
-![alt text][id]
-
-[id]: https://source.unsplash.com/random/?code "Title"
-
+![alt text][1]
 
 ![Java Badge](https://img.shields.io/badge/Java-17.0.6-black?style=plastic&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgdmlld0JveD0iMCAwIDEyOCAxMjgiCiAgIHZlcnNpb249IjEuMSIKICAgaWQ9InN2ZzUiCiAgIHNvZGlwb2RpOmRvY25hbWU9ImphdmEtb3JpZ2luYWwgKGNvcHkpLnN2ZyIKICAgaW5rc2NhcGU6dmVyc2lvbj0iMS4zICgxOjEuMysyMDIzMDcyMzE0NTkrMGUxNTBlZDZjNCkiCiAgIHhtbG5zOmlua3NjYXBlPSJodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy9uYW1lc3BhY2VzL2lua3NjYXBlIgogICB4bWxuczpzb2RpcG9kaT0iaHR0cDovL3NvZGlwb2RpLnNvdXJjZWZvcmdlLm5ldC9EVEQvc29kaXBvZGktMC5kdGQiCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnMKICAgICBpZD0iZGVmczUiIC8+CiAgPHNvZGlwb2RpOm5hbWVkdmlldwogICAgIGlkPSJuYW1lZHZpZXc1IgogICAgIHBhZ2Vjb2xvcj0iIzMzMzMzMyIKICAgICBib3JkZXJjb2xvcj0iIzUzNTM1MyIKICAgICBib3JkZXJvcGFjaXR5PSIxIgogICAgIGlua3NjYXBlOnNob3dwYWdlc2hhZG93PSIwIgogICAgIGlua3NjYXBlOnBhZ2VvcGFjaXR5PSIwIgogICAgIGlua3NjYXBlOnBhZ2VjaGVja2VyYm9hcmQ9IjAiCiAgICAgaW5rc2NhcGU6ZGVza2NvbG9yPSIjMzMzMzMzIgogICAgIGlua3NjYXBlOnpvb209IjEuOTY4NzUiCiAgICAgaW5rc2NhcGU6Y3g9IjI3LjY4MjU0IgogICAgIGlua3NjYXBlOmN5PSI2OS4wNzkzNjUiCiAgICAgaW5rc2NhcGU6d2luZG93LXdpZHRoPSIxMzI4IgogICAgIGlua3NjYXBlOndpbmRvdy1oZWlnaHQ9IjcwNCIKICAgICBpbmtzY2FwZTp3aW5kb3cteD0iMCIKICAgICBpbmtzY2FwZTp3aW5kb3cteT0iMCIKICAgICBpbmtzY2FwZTp3aW5kb3ctbWF4aW1pemVkPSIxIgogICAgIGlua3NjYXBlOmN1cnJlbnQtbGF5ZXI9InN2ZzUiIC8+CiAgPHBhdGgKICAgICBmaWxsPSIjMDA3NEJEIgogICAgIGQ9Ik00Ny42MTcgOTguMTJzLTQuNzY3IDIuNzc0IDMuMzk3IDMuNzFjOS44OTIgMS4xMyAxNC45NDcuOTY4IDI1Ljg0NS0xLjA5MiAwIDAgMi44NzEgMS43OTUgNi44NzMgMy4zNTEtMjQuNDM5IDEwLjQ3LTU1LjMwOC0uNjA3LTM2LjExNS01Ljk2OXptLTIuOTg4LTEzLjY2NXMtNS4zNDggMy45NTkgMi44MjMgNC44MDVjMTAuNTY3IDEuMDkxIDE4LjkxIDEuMTggMzMuMzU0LTEuNiAwIDAgMS45OTMgMi4wMjUgNS4xMzIgMy4xMzEtMjkuNTQyIDguNjQtNjIuNDQ2LjY4LTQxLjMwOS02LjMzNnoiCiAgICAgaWQ9InBhdGgxIgogICAgIHN0eWxlPSJmaWxsOiNmZmZmZmYiIC8+CiAgPHBhdGgKICAgICBmaWxsPSIjRUEyRDJFIgogICAgIGQ9Ik02OS44MDIgNjEuMjcxYzYuMDI1IDYuOTM1LTEuNTggMTMuMTctMS41OCAxMy4xN3MxNS4yODktNy44OTEgOC4yNjktMTcuNzc3Yy02LjU1OS05LjIxNS0xMS41ODctMTMuNzkyIDE1LjYzNS0yOS41OCAwIC4wMDEtNDIuNzMxIDEwLjY3LTIyLjMyNCAzNC4xODd6IgogICAgIGlkPSJwYXRoMiIKICAgICBzdHlsZT0iZmlsbDojZmZmZmZmIiAvPgogIDxwYXRoCiAgICAgZmlsbD0iIzAwNzRCRCIKICAgICBkPSJNMTAyLjEyMyAxMDguMjI5czMuNTI5IDIuOTEtMy44ODggNS4xNTljLTE0LjEwMiA0LjI3Mi01OC43MDYgNS41Ni03MS4wOTQuMTcxLTQuNDUxLTEuOTM4IDMuODk5LTQuNjI1IDYuNTI2LTUuMTkyIDIuNzM5LS41OTMgNC4zMDMtLjQ4NSA0LjMwMy0uNDg1LTQuOTUzLTMuNDg3LTMyLjAxMyA2Ljg1LTEzLjc0MyA5LjgxNSA0OS44MjEgOC4wNzYgOTAuODE3LTMuNjM3IDc3Ljg5Ni05LjQ2OHpNNDkuOTEyIDcwLjI5NHMtMjIuNjg2IDUuMzg5LTguMDMzIDcuMzQ4YzYuMTg4LjgyOCAxOC41MTguNjM4IDMwLjAxMS0uMzI2IDkuMzktLjc4OSAxOC44MTMtMi40NzQgMTguODEzLTIuNDc0cy0zLjMwOCAxLjQxOS01LjcwNCAzLjA1M2MtMjMuMDQyIDYuMDYxLTY3LjU0NCAzLjIzOC01NC43MzEtMi45NTggMTAuODMyLTUuMjM5IDE5LjY0NC00LjY0MyAxOS42NDQtNC42NDN6bTQwLjY5NyAyMi43NDdjMjMuNDIxLTEyLjE2NyAxMi41OTEtMjMuODYgNS4wMzItMjIuMjg1LTEuODQ4LjM4NS0yLjY3Ny43Mi0yLjY3Ny43MnMuNjg4LTEuMDc5IDItMS41NDNjMTQuOTUzLTUuMjU1IDI2LjQ1MSAxNS41MDMtNC44MjMgMjMuNzI1IDAtLjAwMi4zNTktLjMyNy40NjgtLjYxN3oiCiAgICAgaWQ9InBhdGgzIgogICAgIHN0eWxlPSJmaWxsOiNmZmZmZmYiIC8+CiAgPHBhdGgKICAgICBmaWxsPSIjRUEyRDJFIgogICAgIGQ9Ik03Ni40OTEgMS41ODdTODkuNDU5IDE0LjU2MyA2NC4xODggMzQuNTFjLTIwLjI2NiAxNi4wMDYtNC42MjEgMjUuMTMtLjAwNyAzNS41NTktMTEuODMxLTEwLjY3My0yMC41MDktMjAuMDctMTQuNjg4LTI4LjgxNUM1OC4wNDEgMjguNDIgODEuNzIyIDIyLjE5NSA3Ni40OTEgMS41ODd6IgogICAgIGlkPSJwYXRoNCIKICAgICBzdHlsZT0iZmlsbDojZmZmZmZmIiAvPgogIDxwYXRoCiAgICAgZmlsbD0iIzAwNzRCRCIKICAgICBkPSJNNTIuMjE0IDEyNi4wMjFjMjIuNDc2IDEuNDM3IDU3LS44IDU3LjgxNy0xMS40MzYgMCAwLTEuNTcxIDQuMDMyLTE4LjU3NyA3LjIzMS0xOS4xODYgMy42MTItNDIuODU0IDMuMTkxLTU2Ljg4Ny44NzQgMCAuMDAxIDIuODc1IDIuMzgxIDE3LjY0NyAzLjMzMXoiCiAgICAgaWQ9InBhdGg1IgogICAgIHN0eWxlPSJmaWxsOiNmZmZmZmYiIC8+Cjwvc3ZnPgo=&labelColor=%23030303&color=%232B2B2B)
 ![Spring Badge](https://img.shields.io/badge/Spring-6.0.11-black?style=plastic&logo=spring&label=Spring&logoColor=%23ffffff&labelColor=%23030303&color=%232B2B2B)
@@ -31,11 +28,11 @@
 ![Status Badge](https://img.shields.io/badge/Status-Doing-black?style=plastic&label=Status&labelColor=%23030303&color=%23FFDF00)
 ![Status Badge](https://img.shields.io/badge/Status-Review%2FTest-black?style=plastic&label=Status&labelColor=%23030303&color=%236E00FF)
 ![Static Badge](https://img.shields.io/badge/Status-Done-black?style=plastic&label=Status&labelColor=%23030303&color=%2301FF4D)
-## Índice 
+## Índice <a name="readme-top"></a> 
 
 - [Sobre o projeto](#sobre-o-projeto)
     - [Descrição do projeto](#descrição-do-projeto)
-    - [Linguagens, dependências e libs utilizadas](linguagens-dependências-e-libs-utilizadas)
+    - [Linguagens, dependências e libs utilizadas](#linguagens-dependências-e-libs-utilizadas)
 
 - [Começando](#começando)
     - [Pré-requisitos](#pré-requisitos)
@@ -121,11 +118,15 @@ $ npm test, rspec, etc
 
 Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
+![alt text][2]
+
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 ## Uso
 
-Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de **gifs** aqui seria bem interessante. 
+Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de **gifs** aqui seria bem interessante.
+
+![alt text][3]
 
 Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
 
@@ -195,3 +196,7 @@ Liste o time responsável pelo desenvolvimento do projeto
 Use este espaço para listar os recursos que você considera úteis e aos quais gostaria de dar crédito. Eu incluí alguns dos meus favoritos para começar!
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
+
+[1]: https://source.unsplash.com/random/?code "Title"
+[2]: https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif "Gif"
+[3]: https://media.giphy.com/media/VbDqmJbxaeYCoM92Ow/giphy.gif "Gif"
