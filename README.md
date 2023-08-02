@@ -114,7 +114,7 @@ $ npm test, rspec, etc
 ```
 
 ### Deploy
-> Link do deploy da aplicação ou gifs. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
+> Link do deploy da aplicação ou gifs. Exemplo com GitHub Pages: [Marchetti Blog](https://matheuslmarchetti.github.io/Bootcamp-Potencia-Tech-Angular-Developer-Powered-by-iFood-DIO/angular-blog/dist/angular-blog/)
 
 Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
@@ -136,7 +136,7 @@ Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente n
 
 |name|email|password|token|avatar|
 | -------- |-------- |-------- |-------- |-------- |
-|Lais Lima|user@mail.com|user123|true|https://user-avar####|
+|Nome Usuário|user@mail.com|user123|true|https://user-avar####|
 
 ... 
 
@@ -166,10 +166,10 @@ As contribuições são o que torna a comunidade de código aberto um lugar incr
 
 Se você tiver uma sugestão para melhorar isso, bifurque o repositório e crie uma solicitação pull. Você também pode simplesmente abrir um problema com a tag "melhoria". Não se esqueça de dar uma estrela ao projeto! Obrigado novamente!
 
-1. Fork the Project
+1. Fork do Projeto
 2. Crie sua ramificação de recursos ( ```git checkout -b feature/AmazingFeature```)
 3. Confirme suas alterações ( ```git commit -m 'Add some AmazingFeature```)
-4. Empurrar para a filial ( ```git push origin feature/AmazingFeature```)
+4. Empurrar para a branch ( ```git push origin feature/AmazingFeature```)
 5. Abra uma solicitação pull
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
